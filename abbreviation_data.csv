@@ -28,7 +28,7 @@ graffito number,abbreviation,word,word type,abbreviation type,location
 58,A,Aulus,name,first letter only,domestic
 58,a,assibus,noun,first letter only,domestic
 59,K,Kalendas,date,first letter only,domestic
-60,Salute,Salutem,noun,dropped end,domestic
+60,Salute,Salutem,noun,word root only,domestic
 60,ven,venientis,noun,dropped end,domestic
 61,Augu,Augusti,name,dropped end,domestic
 64,C,Caius,name,first letter only,domestic
@@ -57,10 +57,10 @@ graffito number,abbreviation,word,word type,abbreviation type,location
 105,va,vale,vale,dropped end,domestic
 106,va,vale,vale,dropped end,domestic
 107,M,Marcus,name,first letter only,domestic
-108,salute,salutem,noun,dropped end,domestic
+108,salute,salutem,noun,word root only,domestic
 109,va,vale,vale,dropped end,domestic
 116,o,omnes,noun,first letter only,domestic
-117,omn,omnes,noun,dropped end,domestic
+117,omn,omnes,noun,word root only,domestic
 118,K,Kalendas,date,first letter only,domestic
 120,Id,Idibus,date,dropped end,domestic
 120,p,pondo,noun,first letter only,domestic
