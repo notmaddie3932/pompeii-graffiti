@@ -1,0 +1,82 @@
+graffito number,abbreviation,word,word type,abbreviation type,location
+3,va,vale,vale,dropped end,domestic
+6,va,vale,vale,dropped end,domestic
+10,K,Kalendas,date,first letter only,domestic
+10,K,Kalendas,date,first letter only,domestic
+10,K,Kalendas,date,first letter only,domestic
+14,va,vale,vale,dropped end,domestic
+15,Pompon,Pomponius,name,word root only,domestic
+22,S,Sexto,name,first letter only,domestic
+22,s,salutem,noun,first letter only,domestic
+25,N,numeri,noun,first letter only,domestic
+26,Secund,Secundus,name,word root only,domestic
+28,Eulymen,Eulymenus,name,word root only,domestic
+29,paup,pauper,noun,dropped end,domestic
+30,Ho,Hormus,name,dropped end,domestic
+31,Ti,Titus,name,dropped end,domestic
+32,s,salutem,noun,first letter only,domestic
+33,M,Marcus,name,first letter only,domestic
+35,Apri,Aprilis,date,dropped end,domestic
+36,a,annis,date,first letter only,domestic
+41,s,sunt,verb,first letter only,domestic
+44,M,Marcus,name,first letter only,domestic
+44,Caes,Caesar,name,dropped end,domestic
+51,va,vale,vale,dropped end,domestic
+55,va,vale,vale,dropped end,domestic
+56,p,pedibus,noun,first letter only,domestic
+56,t,detractis,noun,middle letter only,domestic
+58,A,Aulus,name,first letter only,domestic
+58,a,assibus,noun,first letter only,domestic
+59,K,Kalendas,date,first letter only,domestic
+60,Salute,Salutem,noun,dropped end,domestic
+60,ven,venientis,noun,dropped end,domestic
+61,Augu,Augusti,name,dropped end,domestic
+64,C,Caius,name,first letter only,domestic
+66,va,vale,vale,dropped end,domestic
+70,M,Marcus,name,first letter only,domestic
+71,is,ipsa/issa,pronoun,word root only,domestic
+73,va,vale,vale,dropped end,domestic
+75,p,pondo,noun,first letter only,domestic
+76,Ti,Tiberii,name,dropped end,domestic
+80,A,Assibus,noun,first letter only,domestic
+85,va,vale,vale,dropped end,domestic
+93,Ianuar,Ianuarias,date,word root only,domestic
+94,K,Kalendas,date,first letter only,domestic
+94,Ian,Ianuarias,date,dropped end,domestic
+94,K,Kalendas,date,first letter only,domestic
+94,G,Germanus,name,first letter only,domestic
+94,K,Kalendas,date,first letter only,domestic
+94,K,Kalendas,date,first letter only,domestic
+94,K,Kalendas,date,first letter only,domestic
+94,G,Germanus,name,first letter only,domestic
+94,K,Kalendas,date,first letter only,domestic
+94,G,Germanus,name,first letter only,domestic
+95,K,Kalendas,date,first letter only,domestic
+97,Nove,Novembris,date,dropped end,domestic
+100,A,Assibus,noun,first letter only,domestic
+105,va,vale,vale,dropped end,domestic
+106,va,vale,vale,dropped end,domestic
+107,M,Marcus,name,first letter only,domestic
+108,salute,salutem,noun,dropped end,domestic
+109,va,vale,vale,dropped end,domestic
+116,o,omnes,noun,first letter only,domestic
+117,omn,omnes,noun,dropped end,domestic
+118,K,Kalendas,date,first letter only,domestic
+120,Id,Idibus,date,dropped end,domestic
+120,p,pondo,noun,first letter only,domestic
+123,K,Kalendas,date,first letter only,domestic
+123,Iulia,Iulias,name,word root only,domestic
+4,L,Lucius,name,first letter only,lupanare
+27,Q,Quinti,name,first letter only,lupanare
+29,salute,salutem,noun,word root only,lupanare
+31,va,vale,vale,dropped end,lupanare
+43,va,vale,vale,dropped end,lupanare
+64,va,vale,vale,dropped end,lupanare
+76,ratio,rationem,noun,word root only,lupanare
+82,futor,fututor,noun,word root only,lupanare
+84,valea,valeas,verb,word root only,lupanare
+92,uncu,uncum,adj,word root only,lupanare
+102,sal,salutem,noun,dropped end,lupanare
+107,a,asses,noun,first letter only,lupanare
+109,K,Kalendas,date,first letter only,lupanare
+109,Iul,Iulias,date,dropped end,lupanare
