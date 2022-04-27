@@ -23,7 +23,6 @@ graffito number,abbreviation,word,word type,abbreviation type,location
 44,Caes,Caesar,name,dropped end,domestic
 51,va,vale,vale,dropped end,domestic
 55,va,vale,vale,dropped end,domestic
-56,p,pedibus,noun,first letter only,domestic
 56,t,detractis,noun,middle letter only,domestic
 58,A,Aulus,name,first letter only,domestic
 58,a,assibus,noun,first letter only,domestic
@@ -73,10 +72,10 @@ graffito number,abbreviation,word,word type,abbreviation type,location
 43,va,vale,vale,dropped end,lupanare
 64,va,vale,vale,dropped end,lupanare
 76,ratio,rationem,noun,word root only,lupanare
-82,futor,fututor,noun,word root only,lupanare
+82,futor,fututor,noun,middle letters dropped,lupanare
 84,valea,valeas,verb,word root only,lupanare
 92,uncu,uncum,adj,word root only,lupanare
 102,sal,salutem,noun,dropped end,lupanare
 107,a,asses,noun,first letter only,lupanare
 109,K,Kalendas,date,first letter only,lupanare
-109,Iul,Iulias,date,dropped end,lupanare
+109,Iul,Iulias,name,dropped end,lupanare
